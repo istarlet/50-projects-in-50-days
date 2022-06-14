@@ -9,5 +9,5 @@ Progress Steps https://github.com/istarlet/progress-steps
 ## Day 3 6/13/2022
 Rotating Navigation https://github.com/istarlet/rotating-navigation
 
-#3 Day 4 6/14/2022
+## Day 4 6/14/2022
 Hidden Search Widget https://github.com/istarlet/hidden-search-widget
