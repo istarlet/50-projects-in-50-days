@@ -21,4 +21,10 @@ Scroll Animation https://github.com/istarlet/scroll-animation
 ## Day 7 6/17/2022
 Split Landing Page https://github.com/istarlet/split-landing-page
 
+## Day 8 6/18/2022
+Form Wave Animation https://github.com/istarlet/form-wave-animation
+
+## Day 9 6/19/2022
+
+
 
