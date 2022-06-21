@@ -27,5 +27,8 @@ Form Wave Animation https://github.com/istarlet/form-wave-animation
 ## Day 9 6/19/2022
 Sound Board https://github.com/istarlet/sound-board
 
+## Day 10 6/20/2022
+Dad Jokes https://github.com/istarlet/dad-jokes
+
 
 
