@@ -30,5 +30,8 @@ Sound Board https://github.com/istarlet/sound-board
 ## Day 10 6/20/2022
 Dad Jokes https://github.com/istarlet/dad-jokes
 
+## Day 11 6/21/2022
+Event Keycodes https://github.com/istarlet/event-keycodes
+
 
 
