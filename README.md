@@ -33,5 +33,8 @@ Dad Jokes https://github.com/istarlet/dad-jokes
 ## Day 11 6/21/2022
 Event Keycodes https://github.com/istarlet/event-keycodes
 
+## Day 12 6/22/2022
+FAQ Collapse https://github.com/istarlet/faq-collapse
+
 
 
