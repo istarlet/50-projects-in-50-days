@@ -36,5 +36,11 @@ Event Keycodes https://github.com/istarlet/event-keycodes
 ## Day 12 6/22/2022
 FAQ Collapse https://github.com/istarlet/faq-collapse
 
+## Day 13 6/23/2022
+Random Choice Picker https://github.com/istarlet/random-choice-picker
+
+## Day 12 6/22/2022
+FAQ Collapse https://github.com/istarlet/faq-collapse
+
 
 
