@@ -39,8 +39,14 @@ FAQ Collapse https://github.com/istarlet/faq-collapse
 ## Day 13 6/23/2022
 Random Choice Picker https://github.com/istarlet/random-choice-picker
 
-## Day 12 6/22/2022
+## Day 14 6/22/2022
 FAQ Collapse https://github.com/istarlet/faq-collapse
+
+## Day 15 6/23/2022
+Random Choice Picker https://github.com/istarlet/random-choice-picker
+
+## Day 16 6/24/2022
+Animated Navigation https://github.com/istarlet/animated-navigation
 
 
 
