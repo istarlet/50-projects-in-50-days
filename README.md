@@ -51,3 +51,6 @@ Animated Navigation https://github.com/istarlet/animated-navigation
 ## Day 17 6/25/2022
 Incrementing Counter https://github.com/istarlet/incrementing-counter
 
+## Day 18 6/26/2022
+Drink Water https://github.com/istarlet/drink-water
+
