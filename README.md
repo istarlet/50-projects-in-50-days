@@ -57,3 +57,6 @@ Drink Water https://github.com/istarlet/drink-water
 ## Day 19 6/27/2022
 Movie App https://github.com/istarlet/movie-app
 
+## Day 20 6/28/2022
+Background Slider https://github.com/istarlet/background-slider
+
