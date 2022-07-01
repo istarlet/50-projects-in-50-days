@@ -60,3 +60,6 @@ Movie App https://github.com/istarlet/movie-app
 ## Day 20 6/28/2022
 Background Slider https://github.com/istarlet/background-slider
 
+## Day 21 6/29/2022
+Theme Slider https://github.com/istarlet/theme-clock
+
