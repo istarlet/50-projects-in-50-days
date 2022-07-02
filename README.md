@@ -64,6 +64,7 @@ Background Slider https://github.com/istarlet/background-slider
 Theme Clock https://github.com/istarlet/theme-clock
 
 ## Day 22 6/30/2022
+Button Ripple Effect https://github.com/istarlet/button-ripple-effect
 
 ## Day 23 7/1/2022
 Drag N Drop https://github.com/istarlet/drag-n-drop
