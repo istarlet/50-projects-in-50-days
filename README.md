@@ -73,5 +73,5 @@ Drag N Drop https://github.com/istarlet/drag-n-drop
 Drawing App https://github.com/istarlet/drawing-app
 
 ## Day 25 7/3/2022
-Content Placeholder https://github.com/istarlet/content-placeholder
+Kinetic CSS Loader https://github.com/istarlet/kinetic-css-loader
 
