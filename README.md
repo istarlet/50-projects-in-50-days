@@ -39,39 +39,39 @@ FAQ Collapse https://github.com/istarlet/faq-collapse
 ## Day 13 6/23/2022
 Random Choice Picker https://github.com/istarlet/random-choice-picker
 
-## Day 14 6/22/2022
+## Day 14 6/24/2022
 Animated Navigation https://github.com/istarlet/animated-navigation
 
-## Day 15 6/23/2022
-Random Choice Picker https://github.com/istarlet/random-choice-picker
-
-## Day 16 6/24/2022
-Animated Navigation https://github.com/istarlet/animated-navigation
-
-## Day 17 6/25/2022
+## Day 15 6/25/2022
 Incrementing Counter https://github.com/istarlet/incrementing-counter
 
-## Day 18 6/26/2022
+## Day 16 6/26/2022
 Drink Water https://github.com/istarlet/drink-water
 
-## Day 19 6/27/2022
+## Day 17 6/27/2022
 Movie App https://github.com/istarlet/movie-app
 
-## Day 20 6/28/2022
+## Day 18 6/28/2022
 Background Slider https://github.com/istarlet/background-slider
 
-## Day 21 6/29/2022
+## Day 19 6/29/2022
 Theme Clock https://github.com/istarlet/theme-clock
 
-## Day 22 6/30/2022
+## Day 20 6/30/2022
 Button Ripple Effect https://github.com/istarlet/button-ripple-effect
 
-## Day 23 7/1/2022
+## Day 21 7/1/2022
 Drag N Drop https://github.com/istarlet/drag-n-drop
 
-## Day 24 7/2/2022
+## Day 22 7/2/2022
 Drawing App https://github.com/istarlet/drawing-app
 
-## Day 25 7/3/2022
+## Day 23 7/3/2022
 Kinetic CSS Loader https://github.com/istarlet/kinetic-css-loader
+
+## Day 24 7/4/2022
+Content Placeholder https://github.com/istarlet/content-placeholder
+
+## Day 25 7/5/2022
+Sticky Navbar https://github.com/istarlet/sticky-navbar
 
