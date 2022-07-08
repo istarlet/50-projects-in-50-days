@@ -78,3 +78,5 @@ Sticky Navbar https://github.com/istarlet/sticky-navbar
 ## Day 26 7/6/2022
 Double Vertical Slider https://github.com/istarlet/double-vertical-slider
 
+## Day 27 7/7/2022
+Toast Notifications https://github.com/istarlet/toast-notifications
