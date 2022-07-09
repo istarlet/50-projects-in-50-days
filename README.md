@@ -80,3 +80,6 @@ Double Vertical Slider https://github.com/istarlet/double-vertical-slider
 
 ## Day 27 7/7/2022
 Toast Notifications https://github.com/istarlet/toast-notifications
+
+## Day 28 7/8/2022
+Github Profiles https://github.com/istarlet/github-profiles
