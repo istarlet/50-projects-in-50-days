@@ -86,3 +86,6 @@ Github Profiles https://github.com/istarlet/github-profiles
 
 ## Day 29 7/9/2022
 Double Click Heart https://github.com/istarlet/double-click-heart
+
+## Day 30 7/10/2022
+Auto Text Effect https://github.com/istarlet/auto-text-effect
