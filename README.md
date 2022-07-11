@@ -89,3 +89,6 @@ Double Click Heart https://github.com/istarlet/double-click-heart
 
 ## Day 30 7/10/2022
 Auto Text Effect https://github.com/istarlet/auto-text-effect
+
+## Day 31 7/11/2022
+Password Generator https://github.com/istarlet/password-generator
