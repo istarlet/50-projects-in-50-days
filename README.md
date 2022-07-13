@@ -92,3 +92,6 @@ Auto Text Effect https://github.com/istarlet/auto-text-effect
 
 ## Day 31 7/11/2022
 Password Generator https://github.com/istarlet/password-generator
+
+## Day 32 7/12/2022
+Good Cheap Fast Checkboxes https://github.com/istarlet/good-cheap-fast-checkboxes
