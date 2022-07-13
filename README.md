@@ -95,3 +95,6 @@ Password Generator https://github.com/istarlet/password-generator
 
 ## Day 32 7/12/2022
 Good Cheap Fast Checkboxes https://github.com/istarlet/good-cheap-fast-checkboxes
+
+## Day 33 7/13/2022
+Notes App https://github.com/istarlet/notes-app
