@@ -104,3 +104,6 @@ Notes App https://github.com/istarlet/notes-app
 
 ## Day 35 7/15/2022
 Image Carousel https://github.com/istarlet/image-carousel
+
+## Day 36 7/16/2022
+Hover Board https://github.com/istarlet/hover-board
