@@ -98,3 +98,9 @@ Good Cheap Fast Checkboxes https://github.com/istarlet/good-cheap-fast-checkboxe
 
 ## Day 33 7/13/2022
 Notes App https://github.com/istarlet/notes-app
+
+## Day 34 7/14/2022
+
+
+## Day 35 7/15/2022
+Image Carousel https://github.com/istarlet/image-carousel
