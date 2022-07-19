@@ -110,3 +110,6 @@ Hoverboard https://github.com/istarlet/hover-board
 
 ## Day 37 7/17/2022
 Pokedex https://github.com/istarlet/pokedex
+
+## Day 38 7/18/2022
+Image Carousel https://github.com/istarlet/image-carousel
