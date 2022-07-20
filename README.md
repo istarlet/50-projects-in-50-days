@@ -113,3 +113,6 @@ Pokedex https://github.com/istarlet/pokedex
 
 ## Day 38 7/18/2022
 Image Carousel https://github.com/istarlet/image-carousel
+
+## Day 39 7/10/2022
+Password Strength Background https://github.com/istarlet/password-strength-background
