@@ -119,5 +119,8 @@ Password Strength Background https://github.com/istarlet/password-strength-backg
 
 ## Day 40 7/20/2022
 
-## Day 41 7/22/2022
+## Day 41 7/21/2022
 Verify Account UI https://github.com/istarlet/verify-account-ui
+
+## Day 42 7/22/2022
+Live User Filter https://jobs.disneycareers.com/business/custom_fields.latamvanity/returnship/391-28648/5
