@@ -124,3 +124,7 @@ Verify Account UI https://github.com/istarlet/verify-account-ui
 
 ## Day 42 7/22/2022
 Live User Filter https://jobs.disneycareers.com/business/custom_fields.latamvanity/returnship/391-28648/5
+
+## Day 43 7/23/2022
+
+## Day 44 7/24/2022
