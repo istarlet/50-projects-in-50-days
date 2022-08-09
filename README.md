@@ -130,14 +130,8 @@ Live User Filter
 ## Day 44 
 Custom Range Slider https://github.com/istarlet/custom-range-slider
 
-
-test
-
-
-
-
-
 ## Day 45 
+Netflix Mobile Navigation https://github.com/istarlet/netflix-mobile-navigation
 
 ## Day
 
